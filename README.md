@@ -1,7 +1,7 @@
-
-
-
 # [Codecov][0] Java Example
+
+[![Build Status](https://travis-ci.org/JacksonTian/example-java.svg?branch=master)](https://travis-ci.org/JacksonTian/example-java)
+[![codecov](https://codecov.io/gh/JacksonTian/example-java/branch/master/graph/badge.svg)](https://codecov.io/gh/JacksonTian/example-java)
 
 ## Guide
 
