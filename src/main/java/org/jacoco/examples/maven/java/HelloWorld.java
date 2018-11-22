@@ -8,7 +8,6 @@ public class HelloWorld {
 		} else {
 			return "Hello World!";
 		}
-    return "never executed!";
 	}
 
 }
